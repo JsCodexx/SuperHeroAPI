@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  #powers{
+    background-color: #adc5db;
+    width: 20rem;
+    height: 15rem;
+    padding: 10px;
+  }
+#heroimage{
+    width:fit-content;
+    height: fit-content;
+}  
